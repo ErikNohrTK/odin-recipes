@@ -4,3 +4,6 @@
 [submodule "path-to-submodule"]
 	path = path-to-submodule
 	url = git@github.com:/ErikNohrTK/odin-recipes
+[submodule "css-exercises"]
+	path = css-exercises
+	url = git@github.com:/ErikNohrTK/odin-recipes/css-exercises
